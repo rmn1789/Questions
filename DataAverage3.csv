@@ -1,0 +1,103 @@
+State,M_White_vs_Average,M_Hispanic_vs_Average,M_Black_vs_Average,M_Asian_vs_Average,Gender
+District of Columbia,25,-25,-14,14,1
+New Jersey,12,-33,-10,31,1
+Maryland,12,-33,-0,21,1
+Delaware,5,-25,-10,30,1
+Connecticut,18,-29,-9,20,1
+Massachusetts,16,-26,-8,18,1
+Virginia,10,-24,-12,27,1
+California,18,-31,-0,14,1
+Illinois,7,-30,-6,28,1
+New York,13,-22,-6,15,1
+Michigan,2,-21,-8,27,1
+Texas,14,-30,-7,23,1
+Pennsylvania,9,-24,-1,16,1
+Arizona,12,-23,-2,12,1
+Washington,17,-27,-1,10,1
+Rhode Island,22,-23,-11,12,1
+Ohio,6,-12,-9,16,1
+Colorado,16,-19,-2,6,1
+Hawaii,16,-11,-100,-5,1
+New Hampshire,5,-100,-100,-5,1
+Alabama,14,-27,-8,21,1
+Oregon,15,-26,3,8,1
+Minnesota,19,-19,-6,6,1
+Indiana,7,-20,-1,13,1
+Tennessee,14,-31,-1,18,1
+Kentucky,7,-17,-7,16,1
+Utah,11,-25,-100,14,1
+Florida,15,-14,-9,9,1
+Nevada,19,-20,-3,3,1
+Georgia,20,-24,-2,7,1
+New Mexico,18,-16,-100,-2,1
+Louisiana,16,-10,-17,11,1
+Kansas,14,-21,-2,9,1
+North Carolina,20,-27,-3,10,1
+Missouri,12,-17,-1,6,1
+Wisconsin,19,-19,-3,3,1
+Iowa,16,-15,-6,5,1
+Oklahoma,13,-20,2,6,1
+South Carolina,20,-13,-11,4,1
+Alaska,21,-100,-100,-21,1
+Arkansas,13,-21,2,6,1
+Idaho,17,-17,-100,-100,1
+Maine,0,-100,-100,-100,1
+Mississippi,16,-4,-12,-100,1
+Montana,0,-100,-100,-100,1
+Nebraska,20,-14,-6,-100,1
+North Dakota,0,-100,-100,-100,1
+South Dakota,0,-100,-100,-100,1
+Vermont,0,-100,-100,-100,1
+West Virginia,5,-100,-5,-100,1
+Wyoming,7,-7,-100,-100,1
+District of Columbia,45,-30,-25,11,0
+New Jersey,24,-38,-19,33,0
+Maryland,23,-34,-9,20,0
+Delaware,10,-32,-10,32,0
+Connecticut,23,-35,-17,29,0
+Massachusetts,26,-30,-20,24,0
+Virginia,18,-35,-20,37,0
+California,31,-40,-4,13,0
+Illinois,22,-35,-15,28,0
+New York,32,-30,-9,7,0
+Michigan,9,-28,-23,42,0
+Texas,24,-35,-16,26,0
+Pennsylvania,14,-21,-14,21,0
+Arizona,17,-30,-13,25,0
+Washington,23,-35,-15,27,0
+Rhode Island,22,-25,-10,13,0
+Ohio,8,-26,-25,44,0
+Colorado,21,-25,-10,14,0
+Hawaii,12,-8,-100,-4,0
+New Hampshire,-13,-100,-100,13,0
+Alabama,23,-38,-14,29,0
+Oregon,13,-34,3,17,0
+Minnesota,21,-30,-8,17,0
+Indiana,13,-29,-10,26,0
+Tennessee,14,-36,-10,33,0
+Kentucky,11,-28,-19,36,0
+Utah,26,-24,-100,-3,0
+Florida,22,-23,-18,19,0
+Nevada,29,-25,-0,-4,0
+Georgia,24,-39,-9,24,0
+New Mexico,15,-22,-100,7,0
+Louisiana,31,-19,-13,1,0
+Kansas,12,-30,-13,30,0
+North Carolina,20,-38,-13,30,0
+Missouri,12,-23,-14,25,0
+Wisconsin,22,-28,-10,16,0
+Iowa,9,-27,-4,22,0
+Oklahoma,25,-26,-8,9,0
+South Carolina,33,-26,-10,3,0
+Alaska,35,-100,-100,-35,0
+Arkansas,14,-31,-14,31,0
+Idaho,21,-21,-100,-100,0
+Maine,0,-100,-100,-100,0
+Mississippi,33,-23,-10,-100,0
+Montana,0,-100,-100,-100,0
+Nebraska,28,-17,-11,-100,0
+North Dakota,0,-100,-100,-100,0
+South Dakota,0,-100,-100,-100,0
+Vermont,0,-100,-100,-100,0
+West Virginia,6,-100,-6,-100,0
+Wyoming,16,-16,-100,-100,0
